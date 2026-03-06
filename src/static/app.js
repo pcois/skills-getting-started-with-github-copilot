@@ -42,6 +42,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   // Handle form submission
+  //
   signupForm.addEventListener("submit", async (event) => {
     event.preventDefault();
 
